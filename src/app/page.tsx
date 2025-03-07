@@ -1,5 +1,5 @@
 import Image from "next/image";
-import { HousePointsContainer } from "./testingGreenHousePoints";
+import { HousePointsContainer } from "./HousePointComponents";
 
 export default function Home() {
   return (
